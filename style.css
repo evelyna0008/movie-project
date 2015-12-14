@@ -1,5 +1,13 @@
 #people {
     font-style:italic;
 }
+body {
+background-image: url('background.png');
+background-size: cover;
+}
 
- 
+.summary {
+    text-align: center; 
+    background-color: white; 
+    
+}
