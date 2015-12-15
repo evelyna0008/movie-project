@@ -13,6 +13,8 @@ background-size:cover;
 .content {
     text-align: center;  
     font-family:"abril fatface";
+    margin:auto;
+    
  }
 .india{
     height:30px;
@@ -27,6 +29,7 @@ background-size:cover;
  }
  #title {
      font-size:30px;
+     padding:10px;
  }
 
 
@@ -36,6 +39,13 @@ button{
     font-weight:bold;
 }
 
+#followwaldo {
+    color:red;
+    font-size:20px;
+
+   
+    text-align:center;
+}
 
     
 
