@@ -8,7 +8,7 @@ background-size:cover;
 
 .summary {
     text-align: center; 
-    background-color: transparent; 
+    background-color: transparent;
 }
 .content {
     text-align: center;  
@@ -25,16 +25,12 @@ background-size:cover;
     clear: both;
     
  }
+ #title {
+     font-size:30px;
+ }
 
-h1 {
-    font-size:50px;
-}
+    
 
-.india {
-    position:absolute;
-    left:50px;
-    right:50px;
-    bottom: 150px;
-    height:20px;
-    width:10px;
-}
+    
+
+
