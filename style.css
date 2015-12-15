@@ -21,8 +21,15 @@ background-size:cover;
 }
  .comingsoon {
     position: relative;
-    bottom: 20px;
- }
-button{
+    bottom: 10px;
+    clear: both;
     
+ }
+
+button{
 }
+    
+
+    
+
+
