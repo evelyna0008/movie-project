@@ -17,9 +17,20 @@ background-size:cover;
 
  .comingsoon {
     position: relative;
-    bottom: 20px;
+    bottom: 10px;
+    clear: both;
+    
  }
 
 h1 {
     font-size:50px;
+}
+
+.india {
+    position:absolute;
+    left:50px;
+    right:50px;
+    bottom: 150px;
+    height:20px;
+    width:10px;
 }
