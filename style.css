@@ -8,7 +8,7 @@ background-size:cover;
 
 .summary {
     text-align: center; 
-    background-color: transparent; 
+    background-color: transparent;
 }
 .content {
     text-align: center;  
@@ -25,13 +25,17 @@ background-size:cover;
     clear: both;
     
  }
+ #title {
+     font-size:30px;
+ }
+
 
 button{
     color:red;
     background-color:white;
     font-weight:bold;
 }
-    
+
 
     
 
