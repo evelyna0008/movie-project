@@ -14,7 +14,11 @@ background-size:cover;
     text-align: center;  
     font-family:"abril fatface";
  }
-
+.india{
+    height:30px;
+    width:30;
+    margin:auto;
+}
  .comingsoon {
     position: relative;
     bottom: 20px;
