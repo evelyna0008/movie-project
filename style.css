@@ -16,6 +16,7 @@ background-size:cover;
     text-align: center;  
     font-family:"abril fatface";
     margin:auto;
+    padding:10px;
     
  }
 .india{
@@ -31,7 +32,7 @@ background-size:cover;
  }
  #title {
      font-size:30px;
-     padding:10px;
+     padding:30px;
      text-align:center;
  }
 
@@ -54,9 +55,12 @@ button{
 a {
     text-align:center;
     bottom:10px;
+    float:right;
+    clear:both;
+    font-size:30px;
 }
 
 p {
-    size:15px;
-    
+    font-size:22px;
+
 }
