@@ -50,6 +50,13 @@ button{
 .csan{
    margin:auto;
 }
+
+a {
+    text-align:center;
+    bottom:10px;
+}
+
+p {
+    size:15px;
     
-
-
+}
